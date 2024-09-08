@@ -32,5 +32,6 @@ class Program
     Console.WriteLine("And I'd like to take a minute");
     Console.WriteLine("Just sit right there");
     Console.WriteLine("I'll tell you how I became the prince of a town called Bel-Air");
+    Console.WriteLine(" ");
     }  
 }
